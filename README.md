@@ -1,4 +1,4 @@
-*WORK HARD WHEN THEY DON'T*
+# WORK HARD WHEN THEY DON'T
 
 # 🌟 Daily DSA Problem Set Solutions 🌟
 
@@ -35,6 +35,6 @@ Here are some of my go-to sites for DSA practice and inspiration:
 - 🌟 [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - 🌟 [Useful Links](https://whimsical.com/leetcodehelper-YaLGhtNuqXB3ros8VJw5zi)
 
-LET'S MAKE EVERYDAY COUNT
+# LET'S MAKE EVERYDAY COUNT
 
 
