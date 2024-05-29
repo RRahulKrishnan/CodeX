@@ -32,7 +32,8 @@ Here's how I keep things organized:
 
 Here are some of my go-to sites for DSA practice and inspiration:
 - 🔗 [LeetCode](https://leetcode.com/)
-- 🔗 [Striver Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- 🔗 [Striver Sheet DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- 🔗 [Striver Sheet Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - 🔗 [45 Day Challenge ](https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit#gid=0)
 - 🔗 [Technical Interview Problems](https://github.com/RRahulKrishnan/LeetCode-Questions-CompanyWise)
 - 🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/)
